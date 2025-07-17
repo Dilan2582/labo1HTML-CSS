@@ -1,0 +1,36 @@
+
+p {
+    color: blue;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    background-color: lightgray;
+    text-align: center;
+}
+
+
+.contenedor {
+    background-color: lightblue;
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid black;
+}
+
+
+#principal {
+    background-color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+a:hover {
+    color: red;
+}
+
+
+img {
+    width: 300px;
+    border-radius: 10px;
+}

@@ -1,0 +1,22 @@
+head: encabezado
+title: titulo de la pestaña del navegador
+body: cuerpo de la página
+i: formato de texto
+u: formato de texto
+header: encabezado
+h1 a h4: títulos
+p: párrafos
+hr: líneas divisoras
+strong: texto en negrita
+nav: menu de navegación
+ul: listas no ordenadas
+li: elementos de la lista
+section: secciones de contenido
+article: artículos individuales
+img: imágenes
+figure: contenedor de imagen más texto
+figcaption: descripción de imagen
+aside: contenido relacional
+footer: pie de página
+blockquote: cita textual
+abbr: sirve para mostrar el significado de una abreviatura
